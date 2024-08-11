@@ -14,7 +14,7 @@ The objective of this project is to predict whether a person has diabetes based 
 - **Evaluation**: Evaluated models using accuracy, precision, recall, and F1-score.
 
 ## Results
-The Random Forest model performed best with an accuracy of 85%.
+The KNN model performed best with an accuracy of 73%.
 
 ## How to Run
 1. Clone the repository.
