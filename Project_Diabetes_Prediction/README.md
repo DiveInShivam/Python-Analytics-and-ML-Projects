@@ -22,9 +22,5 @@ The KNN model performed best with an accuracy of 73%.
 3. Install necessary dependencies.
 4. Run the notebook.
 
-```bash
-git clone https://github.com/your-username/your-github-repo.git
-cd your-github-repo/Project_Diabetes_Prediction
-pip install -r requirements.txt
-jupyter notebook Project_Diabetes_Prediction.ipynb
+
 
