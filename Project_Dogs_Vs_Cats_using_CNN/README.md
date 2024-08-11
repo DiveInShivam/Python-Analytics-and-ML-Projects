@@ -26,9 +26,4 @@ The CNN model achieved an accuracy of X% on the validation set.
 3. Install necessary dependencies.
 4. Run the notebook.
 
-```bash
-git clone https://github.com/your-username/your-github-repo.git
-cd your-github-repo/Project_Dogs_Vs_Cats_using_CNN
-pip install -r requirements.txt
-jupyter notebook Project_Dogs_Vs_Cats_using_CNN.ipynb
 
