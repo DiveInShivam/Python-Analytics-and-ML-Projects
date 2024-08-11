@@ -29,7 +29,7 @@ The objective of this project is to build a model to score leads based on their 
   - Selected the best-performing model based on these metrics.
 
 ## Results
-The Random Forest model performed best with an accuracy of X%, precision of Y%, recall of Z%, and F1-score of W%.
+The Random Forest model performed best with an accuracy of 92%, precision of Y%, recall of Z%, and F1-score of W%.
 
 ## How to Run
 1. Clone the repository.
